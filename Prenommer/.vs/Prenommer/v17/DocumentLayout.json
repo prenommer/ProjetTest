@@ -1,0 +1,128 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Prenommer\\Prenommer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{39327B9C-02CE-4A16-B995-0CA51ACC2763}|Prenommer\\Prenommer.vbproj|c:\\prenommer\\prenommer\\prenommer\\main.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{39327B9C-02CE-4A16-B995-0CA51ACC2763}|Prenommer\\Prenommer.vbproj|solutionrelative:prenommer\\main.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39327B9C-02CE-4A16-B995-0CA51ACC2763}|Prenommer\\Prenommer.vbproj|C:\\Prenommer\\Prenommer\\prenommer\\class10.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{39327B9C-02CE-4A16-B995-0CA51ACC2763}|Prenommer\\Prenommer.vbproj|solutionrelative:prenommer\\class10.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39327B9C-02CE-4A16-B995-0CA51ACC2763}|Prenommer\\Prenommer.vbproj|C:\\Prenommer\\Prenommer\\prenommer\\about.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{39327B9C-02CE-4A16-B995-0CA51ACC2763}|Prenommer\\Prenommer.vbproj|solutionrelative:prenommer\\about.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39327B9C-02CE-4A16-B995-0CA51ACC2763}|Prenommer\\Prenommer.vbproj|C:\\Prenommer\\Prenommer\\prenommer\\about.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{39327B9C-02CE-4A16-B995-0CA51ACC2763}|Prenommer\\Prenommer.vbproj|solutionrelative:prenommer\\about.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39327B9C-02CE-4A16-B995-0CA51ACC2763}|Prenommer\\Prenommer.vbproj|C:\\Prenommer\\Prenommer\\prenommer\\main.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{39327B9C-02CE-4A16-B995-0CA51ACC2763}|Prenommer\\Prenommer.vbproj|solutionrelative:prenommer\\main.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39327B9C-02CE-4A16-B995-0CA51ACC2763}|Prenommer\\Prenommer.vbproj|C:\\Prenommer\\Prenommer\\prenommer\\main.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{39327B9C-02CE-4A16-B995-0CA51ACC2763}|Prenommer\\Prenommer.vbproj|solutionrelative:prenommer\\main.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Main.vb",
+              "DocumentMoniker": "C:\\Prenommer\\Prenommer\\Prenommer\\Main.vb",
+              "RelativeDocumentMoniker": "Prenommer\\Main.vb",
+              "ToolTip": "C:\\Prenommer\\Prenommer\\Prenommer\\Main.vb",
+              "RelativeToolTip": "Prenommer\\Main.vb",
+              "ViewState": "AgIAAEESAAAAAAAAAAAlwFYSAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-07-18T14:48:05.376Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Class10.vb",
+              "DocumentMoniker": "C:\\Prenommer\\Prenommer\\Prenommer\\Class10.vb",
+              "RelativeDocumentMoniker": "Prenommer\\Class10.vb",
+              "ToolTip": "C:\\Prenommer\\Prenommer\\Prenommer\\Class10.vb",
+              "RelativeToolTip": "Prenommer\\Class10.vb",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAA8AAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-06-04T11:49:18.243Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "About.vb",
+              "DocumentMoniker": "C:\\Prenommer\\Prenommer\\Prenommer\\About.vb",
+              "RelativeDocumentMoniker": "Prenommer\\About.vb",
+              "ToolTip": "C:\\Prenommer\\Prenommer\\Prenommer\\About.vb",
+              "RelativeToolTip": "Prenommer\\About.vb",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAAAEQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-06-03T08:16:05.894Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "About.vb [Design]",
+              "DocumentMoniker": "C:\\Prenommer\\Prenommer\\Prenommer\\About.vb",
+              "RelativeDocumentMoniker": "Prenommer\\About.vb",
+              "ToolTip": "C:\\Prenommer\\Prenommer\\Prenommer\\About.vb [Design]",
+              "RelativeToolTip": "Prenommer\\About.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-01-12T05:49:13.529Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Main.Designer.vb",
+              "DocumentMoniker": "C:\\Prenommer\\Prenommer\\Prenommer\\Main.Designer.vb",
+              "RelativeDocumentMoniker": "Prenommer\\Main.Designer.vb",
+              "ToolTip": "C:\\Prenommer\\Prenommer\\Prenommer\\Main.Designer.vb",
+              "RelativeToolTip": "Prenommer\\Main.Designer.vb",
+              "ViewState": "AgIAACkBAAAAAAAAAAAqwEIBAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-18T16:04:03.817Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Main.vb [Design]",
+              "DocumentMoniker": "C:\\Prenommer\\Prenommer\\Prenommer\\Main.vb",
+              "RelativeDocumentMoniker": "Prenommer\\Main.vb",
+              "ToolTip": "C:\\Prenommer\\Prenommer\\Prenommer\\Main.vb [Design]",
+              "RelativeToolTip": "Prenommer\\Main.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-07-18T14:47:00.399Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
