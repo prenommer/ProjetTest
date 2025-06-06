@@ -61,17 +61,17 @@ Si vous souhaitez contribuer :
 - **Faites un fork du projet** et soumettez vos améliorations via **pull request**.
 - **Signalez des bugs ou proposez des idées** via les issues GitHub.
 
-##Support
+## Support
 
 - Vous aimez ce projet ? **Laissez un commentaire** sur le site de l’application !
 - Pour toute question, contactez-moi : <prenommer@proton.me>
 
-##Auteur
+## Auteur
 
 - 👤 **Claude BLET**
 - 🛠 **GitHub** : @urban-succotash
 
-##Licences et crédits
+## Licences et crédits
 
 - Développé avec **Microsoft Visual Studio Community 2022**.
 - Assistance technique et support par **Microsoft Copilot**.
