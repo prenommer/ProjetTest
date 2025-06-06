@@ -1,15 +1,15 @@
- **Prénommer – README**
+**Prénommer – README**
 
 **Remarque**
 
 Le référentiel est en construction. Une documentation complète sera disponible ultérieurement.
 
-**Table des matières**
+## Table des matières
 
 1. [Caractéristiques](#caracteristiques)
 1. [Prérequis](#prerequis)
 1. [Installation](#installation)
-1. [Exécution en tant qu'administrateur](#execution-en-tant-qu-administrateur)
+1. [Exécution en tant qu’administrateur](#execution-en-tant-quadministrateur)
 1. [Configuration du projet](#configuration-du-projet)
 1. [Liens utiles](#liens-utiles)
 1. [Contributions](#contributions)
