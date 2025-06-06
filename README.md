@@ -7,15 +7,15 @@ Le référentiel est en construction. Une documentation complète sera disponibl
 ## Table des matières
 
 1. [Caractéristiques](#caracteristiques)
-1. [Prérequis](#prerequis)
-1. [Installation](#installation)
-1. [Exécution en tant qu’administrateur](#execution-en-tant-quadministrateur)
-1. [Configuration du projet](#configuration-du-projet)
-1. [Liens utiles](#liens-utiles)
-1. [Contributions](#contributions)
-1. [Support](#support)
-1. [Auteur](#auteur)
-1. [Licences et crédits](#licences-et-credits)
+2. [Prérequis](#prerequis)
+3. [Installation](#installation)
+4. [Exécution en tant qu’administrateur](#execution-en-tant-quadministrateur)
+5. [Configuration du projet](#configuration-du-projet)
+6. [Liens utiles](#liens-utiles)
+7. [Contributions](#contributions)
+8. [Support](#support)
+9. [Auteur](#auteur)
+10. [Licences et crédits](#licences-et-credits)
 
 **Caractéristiques**
 
