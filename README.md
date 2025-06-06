@@ -17,14 +17,14 @@ Le référentiel est en construction. Une documentation complète sera disponibl
 9. [Auteur](#auteur)
 10. [Licences et crédits](#licences-et-credits)
 
-# Caractéristiques
+#Caractéristiques
 
 - Logiciel informatique **gratuit et sans publicité**, développé et maintenu en **France**.
 - Fonctionne sous **Windows**.
 - Licence **CC BY-SA 4.0** : permet le **partage, la copie, la reproduction, la distribution, la réutilisation et l'adaptation** du logiciel sous tous formats.
 - Libre redistribution, **accès au code source** et possibilité de **création de travaux dérivés**.
 
-# Prérequis
+#Prérequis
 
 - **Système d’exploitation** : Windows 10 ou supérieur.
 - **Espace disque requis** : 500 Mo minimum.
