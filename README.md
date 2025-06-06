@@ -6,7 +6,7 @@ Le référentiel est en construction. Une documentation complète sera disponibl
 
 ## Table des matières
 
-1. [Caractéristiques](#caracteristiques)
+1. [Caractéristiques](#caractéristiques)
 2. [Prérequis](#prérequis)
 3. [Installation](#installation)
 4. [Exécution en tant qu’administrateur](#exécution-en-tant-quadministrateur)
