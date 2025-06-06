@@ -24,7 +24,7 @@ Le référentiel est en construction. Une documentation complète sera disponibl
 - Licence **CC BY-SA 4.0** : permet le **partage, la copie, la reproduction, la distribution, la réutilisation et l'adaptation** du logiciel sous tous formats.
 - Libre redistribution, **accès au code source** et possibilité de **création de travaux dérivés**.
 
-#Prérequis
+# Prérequis
 
 - **Système d’exploitation** : Windows 10 ou supérieur.
 - **Espace disque requis** : 500 Mo minimum.
@@ -36,7 +36,7 @@ Le référentiel est en construction. Une documentation complète sera disponibl
 1. Extrayez l’archive avec **7-Zip** ou un logiciel compatible.
 1. Ouvrez le dossier extrait et **exécutez l’installation en tant qu’administrateur**.
 
-#Exécution en tant qu'administrateur
+# Exécution en tant qu'administrateur
 
 - Pour exécuter temporairement un programme en tant qu’administrateur :
   - **Clic droit** sur l’icône de l’application sur le bureau ou sur le fichier exécutable.
@@ -71,7 +71,7 @@ Si vous souhaitez contribuer :
 - 👤 **Claude BLET**
 - 🛠 **GitHub** : @urban-succotash
 
-#Licences et crédits
+# Licences et crédits #
 
 - Développé avec **Microsoft Visual Studio Community 2022**.
 - Assistance technique et support par **Microsoft Copilot**.
