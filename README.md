@@ -17,7 +17,7 @@ Le référentiel est en construction. Une documentation complète sera disponibl
 1. [Auteur](#auteur)
 1. [Licences et crédits](#licences-et-credits)
 
-##Caractéristiques
+**Caractéristiques**
 
 - Logiciel informatique **gratuit et sans publicité**, développé et maintenu en **France**.
 - Fonctionne sous **Windows**.
