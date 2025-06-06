@@ -36,7 +36,6 @@ Le référentiel est en construction. Une documentation complète sera disponibl
 1. Extrayez l’archive avec **7-Zip** ou un logiciel compatible.
 1. Ouvrez le dossier extrait et **exécutez l’installation en tant qu’administrateur**.
 
-# Exécution en tant qu’administrateur
 **Exécution en tant qu'administrateur**
 
 - Pour exécuter temporairement un programme en tant qu’administrateur :
