@@ -16,6 +16,7 @@ Le référentiel est en construction. Une documentation complète sera disponibl
 8. [Support](#support)
 9. [Auteur](#auteur)
 10. [Licences et crédits](#licences-et-credits)
+11. [Lien test](#caracteristiques)
 
 **Caractéristiques**
 
