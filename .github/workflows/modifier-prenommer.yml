@@ -13,3 +13,7 @@ jobs:
 
       - name: Exécuter un script
         run: echo "Modification automatique réussie !"
+
+      - name: Débloquer prenommer.exe
+        run: |
+          powershell -Command "Set-ItemProperty -Path './Prenommer.exe' -Name 'IsBlocked' -Value 0"
