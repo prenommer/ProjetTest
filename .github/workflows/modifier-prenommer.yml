@@ -16,4 +16,5 @@ jobs:
 
       - name: Débloquer prenommer.exe
         run: |
-          powershell -Command "Set-ItemProperty -Path './Prenommer.exe' -Name 'IsBlocked' -Value 0"
+         powershell -Command "Unblock-File -Path './Prenommer.exe'"
+
