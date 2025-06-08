@@ -1,1 +1,16 @@
+name: Modifier Prenommer
+on:
+  push:
+    branches:
+      - main
 
+jobs:
+  build:
+    runs-on: windows-latest
+    steps:
+      - name: Checkout du code
+        uses: actions/checkout@v3
+
+      - name: Exécuter un script
+        run: echo "Modification automatique réussie !"
+        
