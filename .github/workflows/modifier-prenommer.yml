@@ -13,4 +13,3 @@ jobs:
 
       - name: Exécuter un script
         run: echo "Modification automatique réussie !"
-        
