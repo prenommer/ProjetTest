@@ -1,5 +1,7 @@
 **Prénommer – README**
 
+<div align="center">![Prenommer](prenommer.png)</div> 
+
 **Remarque**
 
 Le référentiel est en construction. Une documentation complète sera disponible ultérieurement.
