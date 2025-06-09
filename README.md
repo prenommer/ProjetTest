@@ -1,8 +1,10 @@
 **Prénommer – README**
 
-<p align="center">
-  <img src=""C:\Users\admin\Downloads\prenommer.png"" alt="Prenommer">
-</p>
+<img src="prenommer.png" 
+        alt="Picture" 
+        width="499" 
+        height="103" 
+        style="display: block; margin: 0 auto" />
 
 **Remarque**
 
