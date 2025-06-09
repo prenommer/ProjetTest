@@ -1,6 +1,8 @@
 **Prénommer – README**
 
-<div align="center">![Prenommer](prenommer.png)</div> 
+<p align="center">
+  <img src="prenommer.png" alt="Prenommer">
+</p>
 
 **Remarque**
 
