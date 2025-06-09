@@ -1,9 +1,5 @@
 **Prénommer – README**
 
-<p align="center" width="100%">
-    <img width="33%" src="C:\Users\admin\Downloads\prenommer.png">
-</p>
-
 **Remarque**
 
 Le référentiel est en construction. Une documentation complète sera disponible ultérieurement.
