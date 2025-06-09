@@ -1,7 +1,5 @@
 **Prénommer – README**
 
-![Prenommer]("C:\Users\admin\Downloads\prenommer.png")
-
 **Remarque**
 
 Le référentiel est en construction. Une documentation complète sera disponible ultérieurement.
