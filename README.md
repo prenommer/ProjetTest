@@ -1,6 +1,6 @@
 **Prénommer – README**
 
-![Prenommer](https://raw.githubusercontent.com/ProjetTest/main/prenommer.png)
+![Prenommer](https://raw.githubusercontent.com/Claude/ProjetTest/main/prenommer.png)
 
 **Remarque**
 
