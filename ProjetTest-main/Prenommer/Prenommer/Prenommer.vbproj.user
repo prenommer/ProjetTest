@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <PublishUrlHistory>C:\Prenommer\|C:\Prenommer\tmp\|Prenommer\|Deploye\Prenommer\|publish\</PublishUrlHistory>
+    <InstallUrlHistory>https://www.prenommer.com/download/mises-a-jour-de-lapplication/prenommer.exe/|https://www.prenommer.com/download/mises-a-jour-de-lapplication/</InstallUrlHistory>
+    <SupportUrlHistory>https://www.prenommer.com/</SupportUrlHistory>
+    <UpdateUrlHistory>https://www.prenommer.com/download/mises-a-jour-de-lapplication/|https://www.prenommer.com/download/mises-a-jour-de-lapplication/prenommer.exe/</UpdateUrlHistory>
+    <BootstrapperUrlHistory />
+    <ErrorReportUrlHistory />
+    <FallbackCulture>fr-FR</FallbackCulture>
+    <VerifyUploadedFiles>false</VerifyUploadedFiles>
+    <ProjectView>ProjectFiles</ProjectView>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|AnyCPU'">
+    <StartArguments>
+    </StartArguments>
+    <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
+  </PropertyGroup>
+  <PropertyGroup>
+    <EnableSecurityDebugging>false</EnableSecurityDebugging>
+  </PropertyGroup>
+</Project>

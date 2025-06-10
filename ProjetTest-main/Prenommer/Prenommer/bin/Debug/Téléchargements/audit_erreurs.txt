@@ -1,0 +1,16 @@
+Fichier E.librairie - Ligne 75 : Longueur totale incorrecte. Longueur attendue : 3188, Longueur trouvée : 3192.
+Fichier E.librairie - Ligne 86 : Longueur totale incorrecte. Longueur attendue : 3188, Longueur trouvée : 2948.
+Erreur détectée dans : E.librairie
+Fichier G.librairie - Ligne 120 : Longueur totale incorrecte. Longueur attendue : 3188, Longueur trouvée : 3191.
+Erreur détectée dans : G.librairie
+Fichier J.librairie - Ligne 8 : Longueur totale incorrecte. Longueur attendue : 3188, Longueur trouvée : 3198.
+Fichier J.librairie - Ligne 34 : Longueur totale incorrecte. Longueur attendue : 3188, Longueur trouvée : 2554.
+Erreur détectée dans : J.librairie
+Fichier M.librairie - Ligne 23 : Longueur totale incorrecte. Longueur attendue : 3188, Longueur trouvée : 3191.
+Fichier M.librairie - Ligne 25 : Longueur totale incorrecte. Longueur attendue : 3188, Longueur trouvée : 3204.
+Fichier M.librairie - Ligne 27 : Longueur totale incorrecte. Longueur attendue : 3188, Longueur trouvée : 3196.
+Erreur détectée dans : M.librairie
+Fichier S.librairie - Ligne 95 : Longueur totale incorrecte. Longueur attendue : 3188, Longueur trouvée : 3189.
+Erreur détectée dans : S.librairie
+Fichier W.librairie - Ligne 7 : Longueur totale incorrecte. Longueur attendue : 3188, Longueur trouvée : 3191.
+Erreur détectée dans : W.librairie

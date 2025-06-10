@@ -1,0 +1,2 @@
+﻿C:\Prenommer\Prenommer\Prenommer\bin\Debug\Librairies\C.librairie
+C:\Prenommer\Prenommer\Prenommer\bin\Debug\Librairies\H.librairie

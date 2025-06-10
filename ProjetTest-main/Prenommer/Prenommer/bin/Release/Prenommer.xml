@@ -1,0 +1,156 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Prenommer
+</name>
+</assembly>
+<members>
+<member name="T:Prenommer.My.Resources.Resources">
+<summary>
+  Une classe de ressource fortement typée destinée, entre autres, à la consultation des chaînes localisées.
+</summary>
+</member>
+<member name="P:Prenommer.My.Resources.Resources.ResourceManager">
+<summary>
+  Retourne l'instance ResourceManager mise en cache utilisée par cette classe.
+</summary>
+</member>
+<member name="P:Prenommer.My.Resources.Resources.Culture">
+<summary>
+  Remplace la propriété CurrentUICulture du thread actuel pour toutes
+  les recherches de ressources à l'aide de cette classe de ressource fortement typée.
+</summary>
+</member>
+<member name="P:Prenommer.My.Resources.Resources._800px_Beato_angelico__predella_della_pala_di_fiesole_02">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Prenommer.My.Resources.Resources._80x15">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Prenommer.My.Resources.Resources.AddDatabase_16x">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Prenommer.My.Resources.Resources.address">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Prenommer.My.Resources.Resources.beos">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Icon semblable à (Icône).
+</summary>
+</member>
+<member name="P:Prenommer.My.Resources.Resources.DocumentError_16x">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Prenommer.My.Resources.Resources.DocumentOK_16x">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Prenommer.My.Resources.Resources.EditDocument_16x">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Prenommer.My.Resources.Resources.Exit_16x">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Prenommer.My.Resources.Resources.ExportToExcel_16x">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Prenommer.My.Resources.Resources.FolderOpened_16x_1">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Prenommer.My.Resources.Resources.GenerateFile_16x">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Prenommer.My.Resources.Resources.HTMLFile_16x">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Prenommer.My.Resources.Resources.HTMLFile_16x_1">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Prenommer.My.Resources.Resources.Image_16x_1">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Prenommer.My.Resources.Resources.ImportFile_16x">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Prenommer.My.Resources.Resources.InformationSymbol_16x">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Prenommer.My.Resources.Resources.MSHelpIndexFile_16x">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Prenommer.My.Resources.Resources.NextDocument_16x1">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Icon semblable à (Icône).
+</summary>
+</member>
+<member name="P:Prenommer.My.Resources.Resources.prenommer2_2">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Prenommer.My.Resources.Resources.Process_16x">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Prenommer.My.Resources.Resources.RunUpdate_16x">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Prenommer.My.Resources.Resources.SearchAndApps_16x">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Prenommer.My.Resources.Resources.TextFile_16x">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Prenommer.My.Resources.Resources.VBLightSwitch_16x">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Prenommer.My.Resources.Resources.XMLFile_16x">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+</members>
+</doc>
